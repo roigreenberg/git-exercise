@@ -1,4 +1,4 @@
-def reverse(org: list):
+def print_reverse(org: list):
     new_list = org[0:len(org):-1]
 
     print(new_list)
