@@ -1,5 +1,6 @@
 def print_odd(org: list):
-    print(org[0::2])
+    odd = org[0::2]
+    print(odd)
 
 
 def print_reverse(org: list):
