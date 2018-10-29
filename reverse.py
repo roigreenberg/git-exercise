@@ -9,5 +9,5 @@ def print_reverse(org: list):
 
 
 if __name__ == '__main__':
-    reverse(list(range(10)))
+    print_reverse(list(range(10)))
 
