@@ -1,3 +1,7 @@
+def print_odd(org:list):
+    print(org[0::2])
+    
+
 def print_reverse(org: list):
     new_list = org[0:len(org):-1]
 
